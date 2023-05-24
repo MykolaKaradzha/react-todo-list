@@ -1,4 +1,16 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+This application is an assistant for your daily tasks.
+
+You can add, delete your tasks, change their name, and sort them.
+
+Implemented using:
+1. Typescript
+2. React hooks:
+ a) useMemo,
+ b) useState,
+ c) useRef,
+ d) useEffect
+3. Rest API [the API](https://mate-academy.github.io/fe-students-api/)
+4. React Router (Link, HashRouter, useSearchParams)
+
+Link to preview on github pages:
+- [DEMO LINK](https://MykolaKaradzha.github.io/react_todo-list/)
