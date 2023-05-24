@@ -23,4 +23,4 @@ Implemented features:
 - All changes are saved on the server
 
 Link to preview on github pages:
-- [DEMO LINK](https://MykolaKaradzha.github.io/react_todo-list/)
+- [DEMO LINK](https://mykolakaradzha.github.io/react-todo-list/)
