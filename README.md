@@ -3,7 +3,7 @@ Created using functional components, hooks, fetch, routing.
 
 You can add, delete your tasks, change their name, and sort them.
 
-Technologies used:
+ Technologies used:
 - React
 - React Router
 - TypeScript
